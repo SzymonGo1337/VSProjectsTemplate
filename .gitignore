@@ -1,0 +1,13 @@
+<<<<<<< Updated upstream
+**.log
+=======
+﻿**.log
+>>>>>>> Stashed changes
+**/.vs
+**/bin
+**/bin-int
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.sln
+/Engine/out
